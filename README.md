@@ -1,2 +1,3 @@
 # Inventory-Management
-Inventory Management Using Python
+---
+Inventory Management Project in Python.
